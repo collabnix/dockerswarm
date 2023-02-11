@@ -10,14 +10,6 @@
 
 
 
-
-## Help, Support Forums
-
-- [Docker Community Forum](https://forums.docker.com)
-- [Swarmkit Discourse Group](https://swarmkit.org/)
-
-
-
 ## Companies using Docker Swarm
 
 - [Portainer](https://portainer.io)
@@ -67,11 +59,6 @@
 
 
 
-
-
-
-
-
 ## Tutorials
 
 - [What is Docker Swarm?](https://dockerlabs.collabnix.com/intermediate/workshop/what-is-docker-swarm.html)
@@ -79,7 +66,10 @@
 
 
 
-## Videos
+## Help & Support 
+
+- [Docker Community Forum](https://forums.docker.com)
+- [Swarmkit Discourse Group](https://swarmkit.org/)
 
 
 
