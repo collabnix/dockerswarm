@@ -73,9 +73,6 @@
 
 ## Labs & Tutorials
 
-# Docker Swarm
-
-### Introduction to Docker Swarm
 
 - [What is Docker Swarm](http://dockerlabs.collabnix.com/intermediate/workshop/what-is-docker-swarm.html)<br>
 - [Docker Swarm : Terminology](http://dockerlabs.collabnix.com/intermediate/workshop/Docker-Swarm-Terminology.html)
