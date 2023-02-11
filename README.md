@@ -27,6 +27,7 @@
 - [How I built Elastic Stack for Docker Swarm using Docker Application Packages(docker-app)](https://collabnix.com/how-i-built-elastic-stack-using-docker-application-packagedocker-app/)
 - [When Kubernetes Meet Docker Swarm for the First time under Docker for Mac 17.12 Release](https://collabnix.com/integration-of-docker-swarm-kubernetes-under-docker-for-mac-platform/)
 - [Hybrid Docker Swarm Mode Cluster with Multi-OS Application Deployment](https://collabnix.com/building-hybrid-docker-swarm-mode-cluster-on-google-cloud-platform/)
+- [2-minutes to Kubernetes Cluster on Docker for Mac 18.01 using Swarm CLI](https://collabnix.com/running-kubernetes-cluster-on-docker-for-mac-18-01-using-swarm-cli/)
 
 
 ## Tools
