@@ -10,6 +10,14 @@
 
 
 
+
+## Forums
+
+- [Swarmkit Discourse Group](https://swarmkit.org/)
+- [Docker Community Forum](https://forums.docker.com)
+
+
+
 ## Companies using Docker Swarm
 
 - [Portainer](https://portainer.io)
