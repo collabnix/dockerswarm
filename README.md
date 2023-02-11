@@ -62,10 +62,25 @@
 
 
 
-## Tutorials
+## Labs & Tutorials
 
-- [What is Docker Swarm?](https://dockerlabs.collabnix.com/intermediate/workshop/what-is-docker-swarm.html)
-- [Docker Swarm Terminologies](https://dockerlabs.collabnix.com/intermediate/workshop/Docker-Swarm-Terminology.html)
+# Docker Swarm
+
+### Introduction to Docker Swarm
+
+- [What is Docker Swarm](http://dockerlabs.collabnix.com/intermediate/workshop/what-is-docker-swarm.html)<br>
+- [Docker Swarm : Terminology](http://dockerlabs.collabnix.com/intermediate/workshop/Docker-Swarm-Terminology.html)
+
+### Docker Services | Scaling | Draining Node | Rescheduling Containers
+
+- [Creating 5-Node Docker Swarm Cluster](http://dockerlabs.collabnix.com/intermediate/workshop/getting-started-with-swarm.html)<br>
+- [Lab #1: Creating Overlay Network](http://dockerlabs.collabnix.com/intermediate/workshop/lab1-docker-network-overlay.html)<br>
+- [Lab #2: Deploy Services ](http://dockerlabs.collabnix.com/intermediate/workshop/lab2-deploy-services.html)<br>
+- [Lab #3: Inspecting Docker Swarm Service States](http://dockerlabs.collabnix.com/intermediate/workshop/lab3-inspect-services.html)<br>
+- [Lab #4: Scaling Docker Swarm Services](http://dockerlabs.collabnix.com/intermediate/workshop/lab4-scaling-services.html)<br>
+- [Lab #5: Deploy the application components as Docker services ](http://dockerlabs.collabnix.com/intermediate/workshop/lab5-deploy-app-component-as-docker-services.html)<br>
+- [Lab #6: Drain a node and reschedule the containers](http://dockerlabs.collabnix.com/intermediate/workshop/lab6-drain-a-node-reschedule.html)<br>
+- [Lab #7: Cleaning Up ](http://dockerlabs.collabnix.com/intermediate/workshop/lab7-cleaning-up.html)<br>
 
 
 
