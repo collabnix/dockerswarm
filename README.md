@@ -13,7 +13,16 @@
 ## Companies using Docker Swarm
 
 - [Portainer](https://portainer.io)
-
+- [Spotify](https://www.slideshare.net/rohanrsingh/docker-at-spotify)
+- [PayPal](https://www.mirantis.com/cloud-case-studies/paypal/)
+- [The New York Times](https://www.youtube.com/watch?v=Ht2RF5o9geA)
+- [ADP](https://thenewstack.io/adp-adopted-container-mindset/)
+- [Yelp](https://thenewstack.io/docker-helped-yelp-leave-monolith-behind/)
+- [Delivery Hero](https://devopscon.io/blog/continuous-deployment-docker-swarm/)
+- [Hootsuite]()
+- [Splunk]()
+- [Zalando]()
+- [Munich Re]()
 
 
 ## Blogs
