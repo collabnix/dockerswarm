@@ -1,3 +1,11 @@
+![stars](https://img.shields.io/github/stars/collabnix/dockerswarm)
+![forks](https://img.shields.io/github/forks/collabnix/dockerswarm)
+![Discord](https://img.shields.io/discord/1020180904129335379)
+![issues](https://img.shields.io/github/issues/collabnix/dockerswarm)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=collabnix.dockerswarm)
+![Twitter](https://img.shields.io/twitter/follow/collabnix?style=social)
+
+
 # A Curated List of Docker Swarm Resources
 
 
