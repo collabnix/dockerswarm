@@ -18,6 +18,9 @@
 
 ## Blogs
 
+
+
+- [Docker Swarm, a User-Friendly Alternative to Kubernetes](https://thenewstack.io/docker-swarm-a-user-friendly-alternative-to-kubernetes/)
 - [Getting Started with Docker Swarm](https://collabnix.com/getting-started-with-docker-swarm/)
 - [Running Redis on 5-Node Docker Swarm Cluster in 2 Minutes](https://collabnix.com/getting-started-with-redis-inside-docker-container-in-2-minutes/)
 - [Top 5 Cool Projects around Docker, Raspberry Pi & Blinkt! ~ Monitoring Docker Swarm using LEDs – Part I](https://collabnix.com/top-5-cool-projects-around-docker-raspberry-pi-blinkt-monitoring-docker-swarm-using-leds-part-i/)
