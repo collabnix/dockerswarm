@@ -11,10 +11,10 @@
 
 
 
-## Forums
+## Help, Support Forums
 
-- [Swarmkit Discourse Group](https://swarmkit.org/)
 - [Docker Community Forum](https://forums.docker.com)
+- [Swarmkit Discourse Group](https://swarmkit.org/)
 
 
 
@@ -40,13 +40,43 @@
 
 ## Tools
 
-- [Docker Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer)
+| S.No. | Name       | Description | 
+|-------| ---------- | ---------|
+| 1 | [Docker Compose](https://docs.docker.com/compose/) | a tool for defining and running multi-container Docker application |
+| 2 | [Docker Machine](https://docs.docker.com/machine/) | create Docker hosts  |
+| 3 | [Docker Stack](https://docs.docker.com/engine/swarm/stack-deploy/) |Manage Swarm stacks|
+| 4 | [Portainer](https://portainer.io/) |a graphical user interface for managing Docker Swarm.|
+| 5 | [Weave Net](https://www.weave.works/oss/net/) |a tool for visualizing and managing Docker Swarm clusters.|
+| 6 | [Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) | a tool that visualizes the state of a Docker Swarm cluster, including nodes, services, and tasks.|
+| 7 | [Traefik](https://traefik.io/) |a modern, dynamic, and fast reverse proxy and load balancer for Docker containers.|
+| 8 | [Routed Swarm](https://github.com/swarm-routed/routed-swarm) | An extension to Docker Swarm that provides a seamless integration of routing and service discovery to your Swarm cluster|
+| 9 | [Fabio](https://github.com/fabiolb/fabio) |a fast, modern, and flexible reverse proxy for routing HTTP and TCP traffic.|
+| 10 | [Swarmpit]() | a web-based management and monitoring platform for Docker Swarm|
+| 11 | [Interlock](https://github.com/ehazlett/interlock) |a reverse proxy and load balancer for Docker containers that integrates with the Docker API and event stream.|
+| 12 | [Logspout]() | a log router for Docker containers that can route logs to various log management tools like Logstash, Fluentd, and others]
+| 13 | [Drainer](https://github.com/lukaspeter/drainer) |a tool for draining and migrating services from one node to another in a Docker Swarm cluster, with zero downtime.|
+| 14 | [Shipyard](https://shipyard-project.com/) |a tool for managing Docker resources, including containers, images, networks, and volumes.|
+| 15 | [Consul](https://www.consul.io/) |a tool for service discovery, configuration management, and orchestration in a Swarm environment.|
+| 16 | [cAdvisor](https://github.com/google/cadvisor)|a tool for analyzing resource usage and performance characteristics of running containers.|
+| 17 | [Flux](https://fluxcd.github.io/flux/)|a tool for automating the deployment of containers in a Swarm environment, including continuous integration and delivery (CI/CD) pipelines.|
+| 18 | [Docker Flow Proxy](https://github.com/vfarcic/docker-flow-proxy)|a dynamic reverse proxy for Docker containers that supports service discovery and automatic reconfiguration.|
+| 19 | [Swarmprom](https://github.com/stefanprodan/swarmprom)|a bundle of tools for monitoring and visualizing a Docker Swarm cluster, including Prometheus, Grafana, cAdvisor, and others.|
+| 20 | [Watchtower](https://github.com/containrrr/watchtower) | a tool that automatically updates running Docker containers to the latest version of their respective images|
+| 21 |  [StackStorm](https://stackstorm.com/) | a tool for automating and orchestrating Docker containers and services in a Swarm environment.|
+
+
+
+
+
+
+
 
 
 ## Tutorials
 
 - [What is Docker Swarm?](https://dockerlabs.collabnix.com/intermediate/workshop/what-is-docker-swarm.html)
 - [Docker Swarm Terminologies](https://dockerlabs.collabnix.com/intermediate/workshop/Docker-Swarm-Terminology.html)
+
 
 
 ## Videos
