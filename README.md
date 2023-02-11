@@ -10,21 +10,6 @@
 
 
 
-## Companies using Docker Swarm
-
-- [Portainer](https://portainer.io)
-- [Spotify](https://www.slideshare.net/rohanrsingh/docker-at-spotify)
-- [PayPal](https://www.mirantis.com/cloud-case-studies/paypal/)
-- [The New York Times](https://www.youtube.com/watch?v=Ht2RF5o9geA)
-- [ADP](https://thenewstack.io/adp-adopted-container-mindset/)
-- [Yelp](https://thenewstack.io/docker-helped-yelp-leave-monolith-behind/)
-- [Delivery Hero](https://devopscon.io/blog/continuous-deployment-docker-swarm/)
-- [Hootsuite]()
-- [Splunk]()
-- [Zalando]()
-- [Munich Re]()
-
-
 ## Blogs
 
 
@@ -88,7 +73,19 @@
 - [Lab #6: Drain a node and reschedule the containers](http://dockerlabs.collabnix.com/intermediate/workshop/lab6-drain-a-node-reschedule.html)<br>
 - [Lab #7: Cleaning Up ](http://dockerlabs.collabnix.com/intermediate/workshop/lab7-cleaning-up.html)<br>
 
+## Companies using Docker Swarm
 
+- [Portainer](https://portainer.io)
+- [Spotify](https://www.slideshare.net/rohanrsingh/docker-at-spotify)
+- [PayPal](https://www.mirantis.com/cloud-case-studies/paypal/)
+- [The New York Times](https://www.youtube.com/watch?v=Ht2RF5o9geA)
+- [ADP](https://thenewstack.io/adp-adopted-container-mindset/)
+- [Yelp](https://thenewstack.io/docker-helped-yelp-leave-monolith-behind/)
+- [Delivery Hero](https://devopscon.io/blog/continuous-deployment-docker-swarm/)
+- [Hootsuite]()
+- [Splunk]()
+- [Zalando]()
+- [Munich Re]()
 
 ## Help & Support 
 
