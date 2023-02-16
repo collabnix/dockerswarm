@@ -52,7 +52,7 @@
 | 19 | [Swarmprom](https://github.com/stefanprodan/swarmprom)|a bundle of tools for monitoring and visualizing a Docker Swarm cluster, including Prometheus, Grafana, cAdvisor, and others.|
 | 20 | [Watchtower](https://github.com/containrrr/watchtower) | a tool that automatically updates running Docker containers to the latest version of their respective images|
 | 21 |  [StackStorm](https://stackstorm.com/) | a tool for automating and orchestrating Docker containers and services in a Swarm environment.|
-
+| 22 | [Swarmlet](https://github.com/swarmlet/swarmlet) | A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more. |
 
 
 
