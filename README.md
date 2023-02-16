@@ -73,7 +73,7 @@
 - [Lab #6: Drain a node and reschedule the containers](http://dockerlabs.collabnix.com/intermediate/workshop/lab6-drain-a-node-reschedule.html)<br>
 - [Lab #7: Cleaning Up ](http://dockerlabs.collabnix.com/intermediate/workshop/lab7-cleaning-up.html)<br>
 
-## Companies using Docker Swarm
+## Companies using Docker Swarm(or used Swarm in the past)
 
 - [Portainer](https://portainer.io)
 - [Spotify](https://www.slideshare.net/rohanrsingh/docker-at-spotify)
