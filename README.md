@@ -38,7 +38,7 @@
 | 5 | [Weave Net](https://www.weave.works/oss/net/) |a tool for visualizing and managing Docker Swarm clusters.|
 | 6 | [Swarm Visualizer](https://github.com/dockersamples/docker-swarm-visualizer) | a tool that visualizes the state of a Docker Swarm cluster, including nodes, services, and tasks.|
 | 7 | [Traefik](https://traefik.io/) |a modern, dynamic, and fast reverse proxy and load balancer for Docker containers.|
-| 8 | [Routed Swarm](https://github.com/swarm-routed/routed-swarm) | An extension to Docker Swarm that provides a seamless integration of routing and service discovery to your Swarm cluster|
+| 8 | [Routed Swarm](https://github.com/flavioaiello/swarm-router) | An extension to Docker Swarm that provides a seamless integration of routing and service discovery to your Swarm cluster|
 | 9 | [Fabio](https://github.com/fabiolb/fabio) |a fast, modern, and flexible reverse proxy for routing HTTP and TCP traffic.|
 | 10 | [Swarmpit]() | a web-based management and monitoring platform for Docker Swarm|
 | 11 | [Interlock](https://github.com/ehazlett/interlock) |a reverse proxy and load balancer for Docker containers that integrates with the Docker API and event stream.|
